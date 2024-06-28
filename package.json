@@ -1,0 +1,38 @@
+{
+  "name": "eq-game",
+  "version": "1.0.0",
+  "description": "Emotional Intelligence Game",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^5.6.0",
+    "howler": "^2.2.4",
+    "lucide-react": "^0.397.0",
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-avatar-editor": "^13.0.2",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "react-joyride": "^2.8.2",
+    "react-slider": "^2.0.6",
+    "react-tippy": "^1.4.0",
+    "react-toastify": "^10.0.5",
+    "recharts": "^2.12.7",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.13",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  }
+}
